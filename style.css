@@ -879,6 +879,10 @@ xclip
     margin-top: 20px;
 }
 
+.testimonial2 {
+    display: none;
+}
+
 .testimonial h4 {
     font-size: 18px;
     color: #333333;
